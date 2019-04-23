@@ -1,6 +1,6 @@
-[{"id":19,"email":"ddd@gmail.com","fname":"donkey","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"1"},
+{"id":19,"email":"ddd@gmail.com","fname":"donkey","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"1"},
   {"id":20,"email":"eee@gmail.com","fname":"welcome","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"1"},
   {"id":21,"email":"rtkcse@gmail.com","fname":"Thamaraikannan","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"12"},
   {"id":36,"email":"bbb@gmail.com","fname":"bbb","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"12"},
   {"id":46,"email":"1@gmail.com","fname":"aaa","lname":"aaa","age":"12","gender":"Male","address":"aaa","password":"12"},
-  {"id":54,"email":"rtkcse11@gmail.com","fname":"lotus","lname":"as","age":"12","gender":"Male","address":"asasas","password":"11"}];
+  {"id":54,"email":"rtkcse11@gmail.com","fname":"lotus","lname":"as","age":"12","gender":"Male","address":"asasas","password":"11"}
